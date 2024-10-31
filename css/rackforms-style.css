@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+/* Maximize Display Space For Editor */
+
+#wpbody-content { padding-bottom:5px; }
+
+#wpfooter { display: none; }

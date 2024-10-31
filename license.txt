@@ -1,0 +1,87 @@
+
+END-USER LICENSE AGREEMENT FOR RackForms
+
+IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE USING RackForms:
+
+RackForms PHP FORM CREATION AND MAINTINENCE SOFTWARE PRODUCT
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity), the End User, and nicSoft (the "Author"), for the RackForms software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and nicSoft, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold to you only on the terms and conditions of this EULA.
+
+1. GRANT OF LICENSE.
+The SOFTWARE PRODUCT is licensed as follows:
+A. Installation and Use.
+nicSoft grants you the right to install and use copies of the SOFTWARE PRODUCT on your personal computer or enterprise network.
+B. Backup Copies.
+You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+A. Maintenance of Copyright Notices.
+You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.
+B. Distribution.
+You may not distribute copies of the SOFTWARE PRODUCT to third parties.
+C. Prohibition on Reverse Engineering, Decompilation, and Disassembly.
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation, and to which source code belongs to the movefiles directory as defined in the SOFTWARE PRODUCTS default configuration.
+D. Rental.
+You may not rent, lease, or lend the SOFTWARE PRODUCT.
+E. Support Services.
+nicSoft may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA.
+F. Compliance with Applicable Laws.
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.
+
+YOU MAY NOT:
+A. Use the Software to provide services to others; such as the basis of a hosted form-building service, or any other services which is a direct competition against The Author;
+A(1). Employ others to create forms which are then sold to a third party.
+A(2). Exclusively sell the result of RackForms output to a third party.
+C. Sell, assign, license, disclose, distribute, or otherwise transfer or make available the Software or its Source Code, in whole or in part, in any form to any third parties;
+D. Use the Software in any site which endorse unlawful manner or for any unlawful purpose (such as Pornography & Adult Content site, Gambling Transactions
+
+or Sports Gambling Prognostication, etc).
+E. Distribute derivative works based on the Software;
+F. Distribute derivative works using any part of the RackForms Software or Source Code.
+
+3. TERMINATION
+Without prejudice to any other rights, nicSoft may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.
+
+4. COPYRIGHT
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by nicSoft or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by nicSoft.
+
+5. NO WARRANTIES
+nicSoft expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided "As Is" without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. nicSoft does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. nicSoft makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. nicSoft further expressly disclaims any warranty or representation to Authorized Users or to any third party.
+
+6. LIMITATION OF LIABILITY
+In no event shall nicSoft be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of "Authorized Users" use of or inability to use the SOFTWARE PRODUCT, even if nicSoft has been advised of the possibility of such damages. In no event will nicSoft be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. nicSoft shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
+
+7. INTELLECTUAL PROPERTY RIGHTS
+A. nicSoft shall retain all right, title, and interest in the SOFTWARE PRODUCT and to any modifications or improvements made thereto, and any upgrades, updates or Documentation provided to End-User. End-User will not obtain any rights in the SOFTWARE PRODUCT, its updates, upgrades, and Documentation, as a result of its responsibilities hereunder.
+
+B. End-User acknowledges nicSoft's exclusive rights in the SOFTWARE PRODUCT and that the SOFTWARE PRODUCT is unique and original to nicSoft and that nicSoft is owner thereof. Unless otherwise permitted by law, End-User shall not, at any time during or after the effective Term of the Agreement, dispute or contest, directly or indirectly, nicSoft's exclusive right and title to the SOFTWARE PRODUCT or the validity thereof.
+
+C. End-User shall not attempt to develop any SOFTWARE PRODUCT that contains the "look and feel" of any of the SOFTWARE PRODUCT.
+
+8. OWNERSHIP
+It is hereby understood and agreed that NICSOFT, a Wisconsin business with offices at Wauapca, Wisconsin (Licensor) is the owner of all right title and interest to the SOFTWARE PRODUCT, regardless of the media or form of the original download, whether by the World Wide Web, disk or otherwise. You, as licensee (Licensee) through your downloading, installing, copying or use of this product do not acquire any ownership rights to the SOFTWARE PRODUCT.
+
+9. U.S. GOVERNMENT END USERS
+The Software Product and related documentation are "Commercial Items," as that term is defined at 48 C.F.R. ' 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. ' 12.212 or 48 C.F.R. ' 227.7202-1 through 227.7202-4, as applicable. The Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States.
+
+10. CONTROLLING LAW AND SEVERABILITY
+This EULA shall be governed by and construed in accordance with the laws of the State of Wisconsin, without giving effect to any principles of conflicts of law. You agree to submit to the jurisdiction of Wisconsin for any and all disputes, claims and actions arising from or in connection with any materials on this Web site. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. If any provision of this Agreement is held to be unlawful, illegal or unenforceable, then that provision shall be deemed severable from this Agreement and shall not affect the validity and enforceability of any remaining provisions. This EULA is the entire agreement between you and nicSoft and its licensors including their licensors and suppliers relating to the subject matter herein. It may not be modified except in writing, signed by all applicable parties and supersedes in their entirety any and all written or oral agreements previously existing between us with respect to such subject matter.
+
+11. MISCELLANEOUS
+
+A. If you acquired this Software Product in the United States of America, you will not export it except as authorized and permitted by the laws and regulations of the that country.
+
+B. In the event this EULA is not deemed to cover a particular use or disposition of the Software Product, your rights are limited to those available under the fair use provision of the US Copyright Act.
+
+C. This EULA does not grant you any right to use any trademarks or service marks of nicSoft.
+
+12. DEFINITIONS
+Definition of Website
+
+A "Website" is defined as a single domain including sub-domains that operate as a single entity. What constitutes a single entity shall be at the sole discretion of the Author.
+
+Definition of Source Code
+
+The "Source Code" is defined as the contents of all HTML, CSS, JavaScript, and PHP files provided with the Software and includes all related image files and database schemas.
